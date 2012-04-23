@@ -19,3 +19,5 @@
 <p>Each new stable release of <i>the files</i> will be preceded by a tagged snapshot of the repository used to construct it. This will, in effect, be a readily available and easy to use archive of previous releases; which is something we've always wanted but never got around to doing.</p>
 
 <p>The format for tags is: browscap-<b><i>&lt;version&gt;</i></b>, where <b>&lt;version&gt;</b> is the version number.</p>
+
+<p>Thanks in advance for whatever help you might offer.<br>~gary.</p>
