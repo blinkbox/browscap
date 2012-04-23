@@ -1,1 +1,0 @@
-We are still reading, experimenting, and learning about Git and GitHub, so for now no changes are being accepted from the general public.
