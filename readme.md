@@ -1,3 +1,9 @@
+<p><b>Important</b></p>
+
+<p>Please be sure to read about the major changes to <i>the files</i> before doing anything here!</p>
+
+<p>https://groups.google.com/d/msg/browscap/kM8NWmmjqh8/IlZ8DkIwEqYJ</p>
+
 <p><b>Welcome</b></p>
 
 <p>We're getting older, and our health isn't good, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Browser Capabilities Project -> Home">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate.</p>
