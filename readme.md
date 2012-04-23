@@ -1,8 +1,8 @@
-<h2>Welcome</h2>
+<p><b>Welcome</b></p>
 
 <p>We're getting older, and our health isn't good, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Browser Capabilities Project -> Home">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate.</p>
 
-<h2>Collaboration</h2>
+<p><b>Collaboration</b></p>
 
 <p>Our main goal here is to encourage collaboration on several files that form the core of <a href="https://browsers.garykeith.com/terms#the-files" title="Browser Capabilities Project -> The Files"><i>the files</i></a>. The hope is that even if we can no longer maintain the project ourselves--including production of all <i>the files</i>, and can't find anyone who wants to take ownership of the project, at least there could still be a browscap.ini file.</p>
 
