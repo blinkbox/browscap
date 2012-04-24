@@ -1,8 +1,6 @@
 <p><b>Important</b></p>
 
-<p>Please be sure to read about the major changes to <i>the files</i> before doing anything here!</p>
-
-<p>https://groups.google.com/d/msg/browscap/kM8NWmmjqh8/IlZ8DkIwEqYJ</p>
+<p>Please be sure to read about the <a href="https://groups.google.com/d/msg/browscap/kM8NWmmjqh8/IlZ8DkIwEqYJ" title="Google Groups -> browscap">major changes to <i>the files</i></a> before doing anything here!</p>
 
 <p><b>Welcome</b></p>
 
