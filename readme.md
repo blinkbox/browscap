@@ -4,7 +4,7 @@
 
 <p><b>Welcome</b></p>
 
-<p>We're getting older, and our health isn't good, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Browser Capabilities Project -> Home">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate.</p>
+<p>We're getting older, and our health isn't good&mdash;we anticipate being around for many more years, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Browser Capabilities Project -> Home">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate.</p>
 
 <p><b>Collaboration</b></p>
 
