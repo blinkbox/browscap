@@ -7,3 +7,4 @@
 <li><b>rendering-engines.ini</b><br>Used to validate the RenderingEngine_Name property.</li>
 <li><b>property-name-docs.ini</b><br>Used to validate all property names and data formats in browscap.ini.</li>
 </ul>
+<p>If you want to add a new value to one of these files please submit it and wait until it's added before using it in browscap.ini.</p>
