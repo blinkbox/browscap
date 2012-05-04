@@ -1,5 +1,5 @@
 <p><b>Important</b></p>
-<p>Please be sure to read about the <a href="https://groups.google.com/d/msg/browscap/kM8NWmmjqh8/IlZ8DkIwEqYJ" title="Part 1: Improving Mobile Device Recognition Accuracy">major changes to <i>the files</i></a> before doing anything here!</p>
+<p>Please be sure to read about the <a href="https://groups.google.com/d/forum/browscap" title="Browscap's discussion group.">major changes to <i>the files</i></a> on May 7, 2012 before doing anything here!</p>
 
 <p><b>Welcome</b></p>
 <p>We're getting older and our health isn't the best it's ever been, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Visit the &quot;Browser Capabilities Project&quot; website.">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate; although hopefully our departure won't happen for a long time&mdash;still, it's always good to be prepared.</p>
@@ -19,8 +19,11 @@
 <p>Each new stable release of <i>the files</i> will be preceded by a tagged snapshot of the repository. The browscap.ini file in this snapshot will then be used to create the rest of <span class="bcp_the-files">the files</span>. These tags will create a readily available and easy to use archive of previous releases, which is something we've always wanted but &mdash;apart from a recent attempt on the main website&mdash;never fully got around to doing.</p>
 <p>The format for these kinds of tags is: browscap-<b><i>&lt;version&gt;</i></b>, where <b>&lt;version&gt;</b> is the version number.</p>
 
-<p><b>Feedback</b></p>
-<p>We wish GitHub had a setup like the one we're using on Google Groups because then we'd keep everything on GitHub. But they don't, so we're using Google Groups to host our announcements and discussions. Please <a href="https://groups.google.com/d/forum/browscap" title="Visit our Google Groups discussion page for project announcements, questions, and discussions.">post your questions and comments there</a>.</p>
+<p><b>Reporting Issues</b></p>
+<p>Please use the Issues tracker here on GitHub to report any problems with <i>the files</i>. You can still report issues via our website, but doing it here means a greater chance it will get acted upon quickly.</p>
+
+<p><b>Questions &amp; Comments</b></p>
+<p>We wish GitHub had a discussion group setup like the one we're using on Google Groups because then we'd keep everything on GitHub. But they don't, so we're using Google Groups to host our announcements and extended discussions. Please <a href="https://groups.google.com/d/forum/browscap" title="Visit our Google Groups discussion page for project announcements discussions.">post your questions and comments there</a>.</p>
 
 <p><b>In Conclusion</b></p>
 <p>Thanks in advance for whatever help you might offer.</p>
