@@ -5,7 +5,7 @@
 <p>We're getting older and our health isn't the best it's ever been, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Visit the &quot;Browser Capabilities Project&quot; website.">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate; although hopefully our departure won't happen for a long time&mdash;still, it's always good to be prepared.</p>
 
 <p><b>Collaboration</b></p>
-<p>Our main goal here is to encourage collaboration on several files that form the core of <a href="https://browsers.garykeith.com/terms#the-files" title="View our definition of the term, &quot;the files.&quot;"><i>the files</i></a>. The hope is that even if we can no longer maintain the project ourselves--including production of all <i>the files</i>, and can't find anyone who wants to take ownership of the project, at least there could still be a browscap.ini file.</p>
+<p>Our main goal here is to encourage collaboration on several files that form the core of <a href="https://browsers.garykeith.com/terms#the-files" title="View our definition of the term, &quot;the files.&quot;"><i>the files</i></a>. The hope is that even if we can no longer maintain the project ourselves&mdash;including production of all <i>the files</i>, and can't find anyone who wants to take ownership of the project, at least there could still be a browscap.ini file.</p>
 <p>At the moment those "several files" consist of:</p>
 <ul>
 <li><b>browscap.ini</b><br>A beta version of the core file that's used to create all the other files we collectively refer to as <i>the files</i>.</li>
