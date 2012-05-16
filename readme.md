@@ -1,6 +1,3 @@
-<p><b>Important</b></p>
-<p>Please be sure to read about the <a href="https://groups.google.com/d/forum/browscap" title="Browscap's discussion group.">major changes coming to <i>the files</i></a> on May 7, 2012 before doing anything here!</p>
-
 <p><b>Welcome</b></p>
 <p>We're getting older and our health isn't the best it's ever been, so increasingly the future of the <a href="https://browsers.garykeith.com" title="Visit the &quot;Browser Capabilities Project&quot; website.">Browser Capabilities Project</a> will be in your hands. It will eventually be up to you to help keep the data for the project current and accurate; although hopefully our departure won't happen for a long time&mdash;still, it's always good to be prepared.</p>
 
